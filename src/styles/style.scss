@@ -1,0 +1,17 @@
+@import "variables";
+@import "~bootstrap";
+@import "~bootstrap-vue";
+
+#brand-logo {
+  width: 30px;
+  height: 30px;
+}
+
+#basket-popover {
+  max-width: none;
+  min-width: 300px;
+}
+
+#basket-badge {
+  width: 30px;
+}
